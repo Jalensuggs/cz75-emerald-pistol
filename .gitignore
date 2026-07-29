@@ -1,0 +1,9 @@
+node_modules
+dist
+.vercel
+.DS_Store
+*.log
+
+# analysis / build-time artifacts (not needed to run the app)
+build/
+手枪.png
