@@ -41,4 +41,6 @@ function saveRender(): Plugin {
   };
 }
 
-export default defineConfig({ plugins: [saveRender()] });
+export default defineConfig({
+  base: process.env.GITHUB_PAGES ? "/cz75-emerald-pistol/" : "/",
+   plugins: [saveRender()] });

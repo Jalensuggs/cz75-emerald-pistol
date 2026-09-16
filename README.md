@@ -1,5 +1,7 @@
 # CZ-75 Emerald Chrome — Procedural Three.js Pistol
 
+**GitHub Pages 预览 →** https://jalensuggs.github.io/cz75-emerald-pistol/
+
 A CZ-75 pattern pistol with an emerald-chrome finish, reconstructed as a **code-only procedural model** in Three.js from a single reference photo — no imported mesh, no downloaded asset pack. Geometry, materials, and the reference camera are all generated at runtime from measured data.
 
 **[Live demo →](https://cz75-emerald-pistol.vercel.app)**
